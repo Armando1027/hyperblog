@@ -3,9 +3,14 @@ Esta es la Historia Ever Mejia
 Ever Nacio en Sonson Antioquia,
 tengo 38 años y me estoy preparando;
 viviendo x el mundo.
+<<<<<<< HEAD
 
 
 Hoy hablaremos de su Vida y obra maestra.
 
 Mañana continuaremos con nuevos temas
 
+=======
+
+Mañana continuaremos con nuevos temas
+>>>>>>> cabecera
